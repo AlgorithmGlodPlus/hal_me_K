@@ -6,4 +6,4 @@
 
 | No  | Problem                                   | Check |
 | --- | ----------------------------------------- | ----- |
-| 1   | [신고 결과 받기]('./Programmers/Lv1/신고_결과_받기.py) | ✔     |
+| 1   | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | ✔     |
