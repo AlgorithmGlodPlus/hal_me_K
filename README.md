@@ -7,7 +7,7 @@
 | No  | Problem                                                                             | Checked |
 | --- | ----------------------------------------------------------------------------------- | ------- |
 | 1   | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)         | ✔       |
-| 2   | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |         |
+| 2   | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | ✔       |
 | 3   | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)      | ✔       |
 | 4   |                                                                                     |         |
 | 5   |                                                                                     |         |
