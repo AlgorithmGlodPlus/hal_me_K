@@ -10,10 +10,10 @@
 | 2   | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | ✔       |
 | 3   | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)      | ✔       |
 | 4   | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)        | ✔       |
-| 5   | 음양 더하기                                                                              |         |
-| 6   | 내적                                                                                  |         |
-| 7   | 소수 만들기                                                                              |         |
-| 8   | K번째수                                                                                |         |
+| 5   | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)           | ✔       |
+| 6   | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)               | ✔       |
+| 7   | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)           | ✔       |
+| 8   | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)             |         |
 | 9   | 모의고사                                                                                |         |
 | 10  | 체육복                                                                                 |         |
 | 11  | 약수의 개수와 덧셈                                                                          |         |
