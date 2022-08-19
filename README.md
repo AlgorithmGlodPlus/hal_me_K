@@ -15,7 +15,7 @@
 | 7   | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)           | ✔       |
 | 8   | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)             | ✔       |
 | 9   | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             |         |
-| 10  | 체육복                                                                                 |         |
+| 10  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)              |         |
 | 11  | 약수의 개수와 덧셈                                                                          |         |
 | 12  | 2016년                                                                               |         |
 | 13  | 나머지가 1이 되는 수 찾기                                                                     |         |
