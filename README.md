@@ -13,7 +13,7 @@
 | 5   | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)           | ✔       |
 | 6   | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)               | ✔       |
 | 7   | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)           | ✔       |
-| 8   | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)             |         |
+| 8   | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)             | ✔       |
 | 9   | 모의고사                                                                                |         |
 | 10  | 체육복                                                                                 |         |
 | 11  | 약수의 개수와 덧셈                                                                          |         |
