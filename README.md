@@ -16,8 +16,8 @@
 | 8   | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)             | ✔       |
 | 9   | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             | ✔       |
 | 10  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)              | ✔       |
-| 11  | 약수의 개수와 덧셈                                                                          |         |
-| 12  | 2016년                                                                               |         |
+| 11  | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)       | ✔       |
+| 12  | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)            | ✔       |
 | 13  | 나머지가 1이 되는 수 찾기                                                                     |         |
 | 14  | 부족한 금액 계산하기                                                                         |         |
 | 15  | 가운데 글자 가져오기                                                                         |         |
