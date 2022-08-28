@@ -18,17 +18,17 @@
 | 10  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)              | ✔       |
 | 11  | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)       | ✔       |
 | 12  | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)            | ✔       |
-| 13  | 나머지가 1이 되는 수 찾기                                                                     |         |
-| 14  | 부족한 금액 계산하기                                                                         |         |
-| 15  | 가운데 글자 가져오기                                                                         |         |
-| 16  | 나누어 떨어지는 숫자 배열                                                                      |         |
-| 17  | 두 정수 사이의 합                                                                          |         |
-| 18  | 문자열 내 마음대로 정렬하기                                                                     |         |
-| 19  | 문자열 내림차순으로 배치하기                                                                     |         |
-| 20  | 문자열 다루기 기본                                                                          |         |
-| 21  | 서울에서 김서방 찾기                                                                         |         |
-| 22  | 수박수박수박수박수박수?                                                                        |         |
-| 23  | 문자열을 정수로 바꾸기                                                                        |         |
+| 13  | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)  | ✔       |
+| 14  | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)      | ✔       |
+| 15  | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)      | ✔       |
+| 16  | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)   | ✔       |
+| 17  | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)       | ✔       |
+| 18  | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)  | ✔       |
+| 19  | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)  | ✔       |
+| 20  | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)       | ✔       |
+| 21  | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)      | ✔       |
+| 22  | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)     | ✔       |
+| 2[3 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)     | ✔       |
 | 24  | 시저 암호                                                                               |         |
 | 25  | 약수의 합                                                                               |         |
 | 26  | 이상한 문자 만들기                                                                          |         |
