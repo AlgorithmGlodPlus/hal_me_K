@@ -29,8 +29,8 @@
 | 21  | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)      | ✔       |
 | 22  | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)     | ✔       |
 | 2[3 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)     | ✔       |
-| 24  | 시저 암호                                                                               |         |
-| 25  | 약수의 합                                                                               |         |
+| 24  | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)            | ✔       |
+| 25  | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)            | ✔       |
 | 26  | 이상한 문자 만들기                                                                          |         |
 | 27  | 자릿수 더하기                                                                             |         |
 | 28  | 자연수 뒤집어 배열로 만들기                                                                     |         |
