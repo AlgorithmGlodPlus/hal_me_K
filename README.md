@@ -31,15 +31,15 @@
 | 2[3 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)     | ✔       |
 | 24  | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)            | ✔       |
 | 25  | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)            | ✔       |
-| 26  | 이상한 문자 만들기                                                                          |         |
-| 27  | 자릿수 더하기                                                                             |         |
-| 28  | 자연수 뒤집어 배열로 만들기                                                                     |         |
-| 29  | 정수 내림차순으로 배치하기                                                                      |         |
-| 30  | 정수 제곱근 판별                                                                           |         |
-| 31  | 제일 작은 수 제거하기                                                                        |         |
-| 32  | 짝수와 홀수                                                                              |         |
+| 26  | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)       | ✔       |
+| 27  | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)          | ✔       |
+| 28  | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)  | ✔       |
+| 29  | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)   | ✔       |
+| 30  | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)        | ✔       |
+| 31  | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)     | ✔       |
+| 32  | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)           | ✔       |
 | 33  | 최대공약수와 최소공배수                                                                        |         |
-| 34  | 콜라츠 추측                                                                              |         |
+| 34  | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)           | ✔       |
 | 35  | 평균 구하기                                                                              |         |
 | 36  | 하샤드 수                                                                               |         |
 | 37  | 핸드폰 번호 가리기                                                                          |         |
