@@ -38,11 +38,11 @@
 | 30  | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)        | ✔       |
 | 31  | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)     | ✔       |
 | 32  | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)           | ✔       |
-| 33  | 최대공약수와 최소공배수                                                                        |         |
+| 33  | 최대공약수와 최소공배수                                                                        | ✔       |
 | 34  | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)           | ✔       |
-| 35  | 평균 구하기                                                                              |         |
-| 36  | 하샤드 수                                                                               |         |
-| 37  | 핸드폰 번호 가리기                                                                          |         |
-| 38  | 행렬의 덧셈                                                                              |         |
-| 39  | x만큼 간격이 있는 n개의 숫자                                                                   |         |
-| 40  | 직사각형 별찍기                                                                            |         |
+| 35  | 평균 구하기                                                                              | ✔       |
+| 36  | 하샤드 수                                                                               | ✔       |
+| 37  | 핸드폰 번호 가리기                                                                          | ✔       |
+| 38  | 행렬의 덧셈                                                                              | ✔       |
+| 39  | x만큼 간격이 있는 n개의 숫자                                                                   | ✔       |
+| 40  | 직사각형 별찍기                                                                            | ✔       |
